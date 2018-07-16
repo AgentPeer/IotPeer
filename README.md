@@ -1,1 +1,1 @@
-# IotPeer
+# Repository for IoT Simulations
