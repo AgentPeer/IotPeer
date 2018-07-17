@@ -1,6 +1,6 @@
 ## Swim Traces
 
-Each trace_X;...tar.gz has traces of X people, simulated using SWIM (Small World In Motion).
+Each trace_X;...tar.gz has traces of X people, simulated using SWIM (Small World In Motion) http://swim.di.uniroma1.it/.
 
 * The parameter used to generate the traces were:
 
