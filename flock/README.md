@@ -1,6 +1,6 @@
 ## Flocking Traces
 
-Each X.rar has traces of X birds.
+Each X.rar has traces of X birds, using Lalena'flocking simulator https://www.lalena.com/AI/Flock/.
 
 * The format of each trace is: 
 
